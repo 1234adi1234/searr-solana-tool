@@ -1,0 +1,14 @@
+{
+  "name": "searr-solana-tool",
+  "version": "1.0.0",
+  "description": "Solana Escrow & Account Rent Reclaimer (SEARR) for Superteam India Track",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "node src/cli.mjs"
+  },
+  "keywords": ["solana", "rent-reclaimer", "escrow", "superteam-india", "colosseum"],
+  "author": "Aditya (@1234adi1234)",
+  "license": "MIT"
+}
